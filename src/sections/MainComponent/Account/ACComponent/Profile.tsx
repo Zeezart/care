@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { Box, Divider, Icon, Image,Text } from '@chakra-ui/react'
 import profile from '../../../../assets/profile.jpeg'
 import { PiMicrophoneLight } from "react-icons/pi";

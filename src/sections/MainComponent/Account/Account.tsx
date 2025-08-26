@@ -1,4 +1,4 @@
-import React from 'react'
+
 import { Box } from '@chakra-ui/react'
 import Profile from './ACComponent/Profile'
 import Services from './ACComponent/Services'

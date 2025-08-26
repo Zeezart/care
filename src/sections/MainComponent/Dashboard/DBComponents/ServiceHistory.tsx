@@ -12,7 +12,6 @@ import {
   Thead,
   Tr,
   Text,
-  useColorModeValue,
   VStack,
   HStack,
   Image,
@@ -20,11 +19,7 @@ import {
 } from "@chakra-ui/react";
 
 const ServiceHistory: React.FC = () => {
-  const bg = useColorModeValue("gray.900", "gray.900");
-  const cardBg = useColorModeValue("gray.800", "gray.800");
-  const borderColor = useColorModeValue("gray.700", "gray.700");
-  const textColor = useColorModeValue("whiteAlpha.900", "whiteAlpha.900");
-  const headerColor = useColorModeValue("gray.400", "gray.400");
+  
 
   // Service history data
   const services = [

@@ -1,4 +1,4 @@
-import React from 'react'
+
 import {Box, Image, Text} from '@chakra-ui/react'
 import logo1 from '../../../../assets/logo1.jpeg'
 import logo2 from '../../../../assets/logo2.jpeg'

@@ -1,4 +1,4 @@
-import React from 'react'
+
 import Header from './DBComponents/Header'
 import { Box } from '@chakra-ui/react'
 import Vehicle from './DBComponents/Vehicle'
